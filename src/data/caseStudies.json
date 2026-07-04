@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "the-aldgate-pavilion",
+    "title": "The Aldgate Pavilion",
+    "category": "Cultural",
+    "year": 2023,
+    "location": "London, UK",
+    "client": "City of London Corporation",
+    "area": "1,200 m²",
+    "status": "Completed",
+    "services": ["Architectural Design", "Planning & Permissions", "3D Visualisation"],
+    "summary": "A civic pavilion designed to activate a neglected urban square through a folded-plate roof structure that channels rainwater into a central reflecting pool.",
+    "challenge": "The brief called for a building that could serve multiple civic functions across the day — market hall at noon, performance space at dusk — without the visual weight of traditional civic architecture.",
+    "solution": "A folded-plate steel roof structure was developed that cantilevers 14m over a permeable granite floor. The roof geometry channels rainwater via concealed downpipes into a central reflecting pool, creating a focal point that changes with light and season.",
+    "outcome": "The pavilion has transformed footfall in the square by 340% since opening, won a 2024 Sustainable Architecture Commendation, and is now used by over 200 community groups annually.",
+    "tags": ["civic", "structural innovation", "public space"],
+    "coverImage": "/assets/case-studies/aldgate-pavilion-cover.jpg",
+    "galleryImages": [
+      "/assets/case-studies/aldgate-pavilion-01.jpg",
+      "/assets/case-studies/aldgate-pavilion-02.jpg",
+      "/assets/case-studies/aldgate-pavilion-03.jpg",
+      "/assets/case-studies/aldgate-pavilion-04.jpg"
+    ]
+  },
+  {
+    "slug": "harrow-house-restoration",
+    "title": "Harrow House Restoration",
+    "category": "Residential",
+    "year": 2022,
+    "location": "Hertfordshire, UK",
+    "client": "Private",
+    "area": "680 m²",
+    "status": "Completed",
+    "services": ["Architectural Design", "Heritage Consultancy", "Renovations & Retrofits"],
+    "summary": "Sensitive restoration and contemporary extension of a Grade II listed Georgian farmhouse. New volumes read as honest insertions — dark-stained oak and rammed earth against original brick and flint.",
+    "challenge": "The Georgian farmhouse required significant structural repair, but the client also needed a substantial contemporary extension for a growing family without compromising the heritage setting or the listed building consent.",
+    "solution": "Rather than mimicking the original, we designed a single-storey linking pavilion in dark-stained green oak and rammed earth — materials that read as genuinely new additions, respecting the host building without imitating it.",
+    "outcome": "Listed building consent was granted at first application. The project was shortlisted for the NLA Don't Move, Improve! Award 2023 and has been featured in Grand Designs Magazine.",
+    "tags": ["heritage", "residential", "extension"],
+    "coverImage": "/assets/case-studies/harrow-house-cover.jpg",
+    "galleryImages": [
+      "/assets/case-studies/harrow-house-01.jpg",
+      "/assets/case-studies/harrow-house-02.jpg",
+      "/assets/case-studies/harrow-house-03.jpg"
+    ]
+  },
+  {
+    "slug": "essex-waterside-studios",
+    "title": "Essex Waterside Studios",
+    "category": "Commercial",
+    "year": 2024,
+    "location": "Chelmsford, UK",
+    "client": "Meridian Creative Group",
+    "area": "3,400 m²",
+    "status": "Completed",
+    "services": ["Architectural Design", "Sustainable Solutions", "Planning & Permissions"],
+    "summary": "A cluster of creative production studios arranged around a shared courtyard on a former industrial waterfront. Passive ventilation and green-planted roofs integrate the complex into the riverbank ecology.",
+    "challenge": "The client needed flexible production studio space that could attract high-end creative tenants while achieving BREEAM Excellent and remaining commercially viable on a contaminated brownfield site.",
+    "solution": "Five pavilions of varying scale are arranged around a central courtyard. Passive ventilation stacks exploit the river breeze; exposed thermal mass in the concrete frame provides natural temperature regulation; biodiverse roofs extend the riverbank habitat.",
+    "outcome": "The scheme achieved BREEAM Excellent, a 42% reduction in operational energy vs. baseline, and full pre-let to creative tenants before practical completion.",
+    "tags": ["workplace", "sustainable", "waterfront"],
+    "coverImage": "/assets/case-studies/essex-waterside-cover.jpg",
+    "galleryImages": [
+      "/assets/case-studies/essex-waterside-01.jpg",
+      "/assets/case-studies/essex-waterside-02.jpg",
+      "/assets/case-studies/essex-waterside-03.jpg",
+      "/assets/case-studies/essex-waterside-04.jpg"
+    ]
+  },
+  {
+    "slug": "dubai-cultural-centre",
+    "title": "Dubai Cultural Centre",
+    "category": "Cultural",
+    "year": 2025,
+    "location": "Dubai, UAE",
+    "client": "Dubai Arts Authority",
+    "area": "12,000 m²",
+    "status": "Under construction",
+    "services": ["Architectural Design", "3D Visualisation", "Sustainable Solutions"],
+    "summary": "A 12,000 sqm arts complex designed around the idea of the medina — an interior city of shaded passages, courtyards, and intimate performance rooms.",
+    "challenge": "Dubai's extreme climate and the need for a major public arts institution that feels genuinely rooted in local culture — not an imported Western model — demanded a fundamentally different organisational approach.",
+    "solution": "We organised the programme around a series of shaded courtyards — the medina model — with perforated aluminium screens filtering light across the day. The screens create shifting geometric patterns, referencing Islamic geometry without literal pastiche.",
+    "outcome": "Planning approved March 2024. The project is currently on site with practical completion expected Q4 2025.",
+    "tags": ["arts", "civic", "Middle East"],
+    "coverImage": "/assets/case-studies/dubai-cultural-cover.jpg",
+    "galleryImages": [
+      "/assets/case-studies/dubai-cultural-01.jpg",
+      "/assets/case-studies/dubai-cultural-02.jpg",
+      "/assets/case-studies/dubai-cultural-03.jpg"
+    ]
+  },
+  {
+    "slug": "queens-park-mews",
+    "title": "Queen's Park Mews",
+    "category": "Residential",
+    "year": 2023,
+    "location": "London, UK",
+    "client": "Private",
+    "area": "1,100 m² (4 houses)",
+    "status": "Completed",
+    "services": ["Architectural Design", "Planning & Permissions", "Sustainable Solutions"],
+    "summary": "Four new-build mews houses inserted into the gap between a Victorian terrace and a former stable block. Each house has a distinct internal section and a different relationship to light.",
+    "challenge": "The narrow infill site — 8m wide and bounded by party walls — required four genuinely individual family homes, each with private outdoor space and adequate natural light, within a constrained budget.",
+    "solution": "Each house has a different section: a different relationship between stair, gallery, and light well. All four share a communal garden at the rear, secured through a PD amendment that required extensive community consultation.",
+    "outcome": "All four houses sold off-plan. One home achieved a SAP rating of A92 — the highest in the borough for its typology. The project was featured in the Architects' Journal.",
+    "tags": ["residential", "infill", "urban"],
+    "coverImage": "/assets/case-studies/queens-park-mews-cover.jpg",
+    "galleryImages": [
+      "/assets/case-studies/queens-park-mews-01.jpg",
+      "/assets/case-studies/queens-park-mews-02.jpg",
+      "/assets/case-studies/queens-park-mews-03.jpg"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "overview",
+    "title": "Our Sustainable Approach",
+    "description": "At Herbert & Crown we treat sustainability not as a checklist but as a design constraint that sharpens every decision. From material selection and embodied carbon to site ecology and operational performance, environmental thinking is woven into the brief from day one.",
+    "keyFacts": [
+      "All projects assessed for embodied carbon at RIBA Stage 1.",
+      "100% of new-build projects target BREEAM Very Good or above.",
+      "Average operational energy reduction of 38% vs. Part L baseline across completed projects.",
+      "Zero projects with mechanical cooling where passive solutions are viable."
+    ],
+    "heroImage": "/assets/sustainable/overview-hero.jpg",
+    "icon": "leaf",
+    "relatedProjects": []
+  },
+  {
+    "slug": "passive-ventilation",
+    "title": "Passive Ventilation Systems",
+    "description": "We design buildings that breathe naturally. Stack effect ventilation, cross-ventilation corridors, and thermal mass work together to regulate internal temperatures without mechanical intervention — reducing operational energy by up to 40% in applicable typologies.",
+    "keyFacts": [
+      "Stack effect drives air movement without fans or ducts.",
+      "Thermal mass stores daytime heat and releases it at night.",
+      "Cross-ventilation requires careful orientation from the outset.",
+      "Saves up to 40% of ventilation energy vs. full mechanical systems."
+    ],
+    "heroImage": "/assets/sustainable/passive-ventilation-hero.jpg",
+    "icon": "wind",
+    "relatedProjects": ["essex-waterside-studios"]
+  },
+  {
+    "slug": "embodied-carbon",
+    "title": "Embodied Carbon Strategy",
+    "description": "Embodied carbon — the CO₂ locked into materials before a building is ever occupied — accounts for up to 50% of a building's lifetime footprint. We use low-carbon structural systems, locally sourced materials, and whole-life carbon assessments at RIBA Stage 1.",
+    "keyFacts": [
+      "Embodied carbon can represent 50% of a building's lifetime emissions.",
+      "Timber structures typically carry 60–80% less embodied carbon than steel equivalents.",
+      "Locally sourced materials reduce transport emissions and support regional supply chains.",
+      "We use RICS whole-life carbon assessment methodology on all projects."
+    ],
+    "heroImage": "/assets/sustainable/embodied-carbon-hero.jpg",
+    "icon": "layers",
+    "relatedProjects": ["harrow-house-restoration", "queens-park-mews"]
+  },
+  {
+    "slug": "living-roofs",
+    "title": "Living Roofs & Biodiversity",
+    "description": "Green and biodiverse roofs are designed as genuine ecological habitats, not token gestures. We work with ecologists from early design stages to ensure sedum mats, plug planting, and substrate depths create corridors that connect to wider urban green networks.",
+    "keyFacts": [
+      "Biodiverse roofs can support over 50 invertebrate species.",
+      "Green roofs reduce surface water runoff by up to 75%.",
+      "Substrate depth determines which plant communities can establish.",
+      "Planning authorities increasingly require Biodiversity Net Gain assessments."
+    ],
+    "heroImage": "/assets/sustainable/living-roofs-hero.jpg",
+    "icon": "tree",
+    "relatedProjects": ["essex-waterside-studios", "queens-park-mews"]
+  },
+  {
+    "slug": "water-harvesting",
+    "title": "Rainwater Harvesting",
+    "description": "Capturing, storing, and redistributing rainwater on-site reduces mains demand and manages surface water runoff. Our systems range from simple butt-and-gravity arrangements in residential projects to integrated cistern networks serving large landscaped commercial sites.",
+    "keyFacts": [
+      "Rainwater harvesting can reduce mains water demand by 30–50%.",
+      "First-flush diverters remove the most polluted run-off from roofs.",
+      "Underground cisterns require careful structural co-ordination.",
+      "SUDS (Sustainable Urban Drainage Systems) are now mandatory on most major schemes."
+    ],
+    "heroImage": "/assets/sustainable/water-harvesting-hero.jpg",
+    "icon": "droplet",
+    "relatedProjects": ["the-aldgate-pavilion"]
+  },
+  {
+    "slug": "adaptive-reuse",
+    "title": "Adaptive Reuse",
+    "description": "The greenest building is often the one that already exists. We champion retention and transformation of existing structures, extending their useful lives while writing new architectural chapters within inherited fabric — a practice central to our heritage and conservation work.",
+    "keyFacts": [
+      "Retaining an existing structure typically avoids 60–80% of new-build embodied carbon.",
+      "RIBA has adopted a 'Retrofit First' principle for the profession.",
+      "Heritage constraints can often be resolved through careful dialogue with Conservation Officers.",
+      "Adaptive reuse projects frequently qualify for reduced VAT rates."
+    ],
+    "heroImage": "/assets/sustainable/adaptive-reuse-hero.jpg",
+    "icon": "refresh-cw",
+    "relatedProjects": ["harrow-house-restoration"]
+  }
+]

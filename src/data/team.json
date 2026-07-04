@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "eleanor-crown",
+    "name": "Eleanor Crown",
+    "role": "Founding Partner",
+    "qualifications": "MA Arch (RCA), ARB, RIBA",
+    "location": "London",
+    "email": "eleanor@herbertandcrown.com",
+    "bio": "Eleanor founded Herbert & Crown in 2011 after a decade at Carmody Groarke and David Chipperfield Architects. Her work is defined by an unflinching interest in structure as architecture — the idea that the thing holding a building up should also be the thing worth looking at. She leads cultural and civic projects across the UK and Middle East.",
+    "awards": ["RIBA Award 2022", "AJ Architecture Award 2021", "Dezeen Award Shortlist 2023"],
+    "projects": [
+      { "slug": "the-aldgate-pavilion", "title": "The Aldgate Pavilion" },
+      { "slug": "dubai-cultural-centre", "title": "Dubai Cultural Centre" }
+    ],
+    "image": "/assets/team/eleanor-crown.jpg"
+  },
+  {
+    "slug": "james-herbert",
+    "name": "James Herbert",
+    "role": "Founding Partner",
+    "qualifications": "MArch (Bartlett), ARB, RIBA",
+    "location": "London",
+    "email": "james@herbertandcrown.com",
+    "bio": "James spent seven years at Herzog & de Meuron before returning to London to co-found the studio. His particular obsession is with the section — the cut through a building that reveals how spaces stack, light falls, and people move. He leads residential and commercial projects, and directs the studio's heritage practice.",
+    "awards": ["BD Architect of the Year Shortlist 2022", "RIBA Award 2023"],
+    "projects": [
+      { "slug": "harrow-house-restoration", "title": "Harrow House Restoration" },
+      { "slug": "queens-park-mews", "title": "Queen's Park Mews" }
+    ],
+    "image": "/assets/team/james-herbert.jpg"
+  },
+  {
+    "slug": "priya-nair",
+    "name": "Priya Nair",
+    "role": "Associate Director, Sustainability",
+    "qualifications": "MArch (Edinburgh), ARB, BREEAM AP",
+    "location": "London",
+    "email": "priya@herbertandcrown.com",
+    "bio": "Priya joined Herbert & Crown in 2016 and leads all environmental strategy across the practice. She holds a BREEAM Accredited Professional qualification and advises on passive design, embodied carbon, and ecology across all project types. She is a visiting critic at the Architectural Association.",
+    "awards": ["CIBSE Young Engineer Award 2019"],
+    "projects": [
+      { "slug": "essex-waterside-studios", "title": "Essex Waterside Studios" }
+    ],
+    "image": "/assets/team/priya-nair.jpg"
+  },
+  {
+    "slug": "omar-al-rashid",
+    "name": "Omar Al-Rashid",
+    "role": "Senior Architect",
+    "qualifications": "MArch (AA), ARB",
+    "location": "Dubai",
+    "email": "omar@herbertandcrown.com",
+    "bio": "Omar leads the studio's Gulf operations from Dubai. His work focuses on the intersection of contemporary architectural language with regional climate and cultural context. He is currently project architect on the Dubai Cultural Centre and a mixed-use development in Riyadh.",
+    "awards": [],
+    "projects": [
+      { "slug": "dubai-cultural-centre", "title": "Dubai Cultural Centre" }
+    ],
+    "image": "/assets/team/omar-al-rashid.jpg"
+  },
+  {
+    "slug": "sarah-okafor",
+    "name": "Sarah Okafor",
+    "role": "Architect",
+    "qualifications": "MArch (Manchester), ARB",
+    "location": "London",
+    "email": "sarah@herbertandcrown.com",
+    "bio": "Sarah works across residential and civic projects, with a particular focus on the social dimension of housing. Before joining Herbert & Crown she worked at Haworth Tompkins on community-led housing developments across London and Liverpool.",
+    "awards": ["NLA Don't Move, Improve! Award 2023"],
+    "projects": [
+      { "slug": "queens-park-mews", "title": "Queen's Park Mews" },
+      { "slug": "the-aldgate-pavilion", "title": "The Aldgate Pavilion" }
+    ],
+    "image": "/assets/team/sarah-okafor.jpg"
+  }
+]
