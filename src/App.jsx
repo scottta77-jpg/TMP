@@ -19,32 +19,11 @@ import NotFound           from './pages/NotFound';
 
 import './styles/global.css';
 
-function WebflowInit() {
-  const location = useLocation();
-
-  useEffect(() => {
-    if (window.Webflow) {
-      window.Webflow.destroy();
-      window.Webflow.ready();
-      if (window.Webflow.require('ix2')) {
-        window.Webflow.require('ix2').init();
-      }
-      
-      // Dispatch events to trigger Webflow page load interactions
-      setTimeout(() => {
-        document.dispatchEvent(new Event('readystatechange'));
-        window.dispatchEvent(new Event('load'));
-      }, 100);
-    }
-  }, [location]);
-
-  return null;
-}
 
 export default function App() {
   return (
     <BrowserRouter>
-      <WebflowInit />
+      
       <div className="page-wrapper">
         <Navbar />
 
