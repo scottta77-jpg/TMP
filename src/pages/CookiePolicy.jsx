@@ -119,8 +119,8 @@ export default function CookiePolicy() {
             <h2 className="legal-h2">Contact</h2>
             <p>
               Questions about cookies? Email us at{' '}
-              <a href="mailto:privacy@herbertandcrown.com" className="legal-link">
-                privacy@herbertandcrown.com
+              <a href="mailto:tonyp@tmparchitecture.co.uk" className="legal-link">
+                tonyp@tmparchitecture.co.uk
               </a>.
             </p>
           </section>
