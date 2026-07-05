@@ -38,7 +38,7 @@ function ParallaxCard({ src, alt, label }) {
   }, []);
 
   return (
-    <div className="thumbnail-wrapper case-studies w-inline-block" ref={cardRef} style={{overflow:'hidden'}}>
+    <div className="thumbnail-wrapper case-studies w-inline-block" ref={cardRef} style={{overflow:'hidden',cursor:'default'}}>
       <div className="image-wrapper case-study">
         <img
           ref={imgRef}
