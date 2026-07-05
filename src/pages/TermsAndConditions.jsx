@@ -29,7 +29,7 @@ export default function TermsAndConditions() {
           <section className="legal-block">
             <h2 className="legal-h2">1. Introduction</h2>
             <p>
-              These terms and conditions govern your use of the Herbert &amp; Crown Architects Ltd
+              These terms and conditions govern your use of the TMP Architecture Ltd
               website and any services we provide. By accessing this website, you agree to these
               terms in full.
             </p>
@@ -39,7 +39,7 @@ export default function TermsAndConditions() {
             <h2 className="legal-h2">2. Intellectual property</h2>
             <p>
               All content on this website — including text, images, drawings, and design — is the
-              intellectual property of Herbert &amp; Crown Architects Ltd or is used with permission.
+              intellectual property of TMP Architecture Ltd or is used with permission.
               You may not reproduce, distribute, or transmit any content without prior written consent.
             </p>
           </section>
@@ -57,7 +57,7 @@ export default function TermsAndConditions() {
           <section className="legal-block">
             <h2 className="legal-h2">4. Limitation of liability</h2>
             <p>
-              To the extent permitted by law, Herbert &amp; Crown Architects Ltd shall not be liable
+              To the extent permitted by law, TMP Architecture Ltd shall not be liable
               for any indirect, incidental, or consequential loss arising from use of or inability to
               use this website or its content.
             </p>

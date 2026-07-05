@@ -29,8 +29,8 @@ export default function PrivacyPolicy() {
           <section className="legal-block">
             <h2 className="legal-h2">1. Who we are</h2>
             <p>
-              Herbert &amp; Crown Architects Ltd ("we", "us", "our") is registered in England and
-              Wales. Our registered office is 12 Cloth Fair, Barbican, London EC1A 7JQ. We are the
+              TMP Architecture Ltd ("we", "us", "our") is registered in England and
+              Wales. Our registered office is 48 Hawthorn Ave, Rainham RM13 9AT. We are the
               data controller for the personal data described in this policy.
             </p>
           </section>
@@ -80,8 +80,8 @@ export default function PrivacyPolicy() {
               Under UK GDPR you have the right to access, rectify, erase, restrict, or object to
               processing of your personal data, and the right to data portability. To exercise any
               of these rights, contact us at{' '}
-              <a href="mailto:privacy@herbertandcrown.com" className="legal-link">
-                privacy@herbertandcrown.com
+              <a href="mailto:tonyp@tmparchitecture.co.uk" className="legal-link">
+                tonyp@tmparchitecture.co.uk
               </a>.
             </p>
           </section>
@@ -108,8 +108,8 @@ export default function PrivacyPolicy() {
             <h2 className="legal-h2">9. Contact us</h2>
             <p>
               For any privacy-related queries, please contact{' '}
-              <a href="mailto:privacy@herbertandcrown.com" className="legal-link">
-                privacy@herbertandcrown.com
+              <a href="mailto:tonyp@tmparchitecture.co.uk" className="legal-link">
+                tonyp@tmparchitecture.co.uk
               </a>{' '}
               or write to us at our registered office address above.
             </p>
