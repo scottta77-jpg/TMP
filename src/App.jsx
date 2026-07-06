@@ -1,6 +1,22 @@
 import { useEffect } from 'react';
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 
+function WebflowInit() {
+  const location = useLocation();
+  useEffect(() => {
+    if (window.Webflow) {
+      window.Webflow.destroy();
+      window.Webflow.ready();
+      if (window.Webflow.require('ix2')) window.Webflow.require('ix2').init();
+      setTimeout(() => {
+        document.dispatchEvent(new Event('readystatechange'));
+        window.dispatchEvent(new Event('load'));
+      }, 100);
+    }
+  }, [location]);
+  return null;
+}
+
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -24,6 +40,7 @@ export default function App() {
   return (
     <BrowserRouter>
       
+      <WebflowInit />
       <div className="page-wrapper">
         <Navbar />
 
