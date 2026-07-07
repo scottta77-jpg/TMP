@@ -1,12 +1,12 @@
 import React from 'react';
 
 const PROJECTS = [
-  { img: '/assets/cs-1.jpeg', label: 'Residential Extension' },
-  { img: '/assets/cs-2.jpeg', label: 'Loft Conversion' },
-  { img: '/assets/cs-3.jpeg', label: 'Proposed New House' },
-  { img: '/assets/cs-4.jpeg', label: 'Development of a Plot of Land' },
-  { img: '/assets/cs-5.jpeg', label: 'Residential Extension' },
-  { img: '/assets/cs-6.jpeg', label: 'Loft Conversion' },
+  { img: '/assets/cs-1.jpeg', label: 'New Build' },
+  { img: '/assets/cs-2.jpeg', label: 'Loft Conversion & Extension' },
+  { img: '/assets/cs-3.jpeg', label: 'Residential Extension' },
+  { img: '/assets/cs-4.jpeg', label: 'Proposed New Build' },
+  { img: '/assets/cs-5.jpeg', label: 'New Build' },
+  { img: '/assets/cs-6.jpeg', label: 'New Build' },
 ];
 
 function ProjectCard({ img, label }) {
