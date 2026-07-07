@@ -12,7 +12,7 @@ export default function CaseStudyDetail() {
         <div className="csd-not-found">
           <p className="csd-eyebrow">404</p>
           <h1 className="csd-not-found-heading">Project not found</h1>
-          <Link to="/case-studies" className="csd-back-link">← All projects</Link>
+          <Link to="/projects" className="csd-back-link">← All projects</Link>
         </div>
       </main>
     );
@@ -192,7 +192,7 @@ export default function CaseStudyDetail() {
         </div>
 
         <div className="csd-project-nav-body">
-          <Link to="/case-studies" className="csd-nav-link">
+          <Link to="/projects" className="csd-nav-link">
             <span className="csd-nav-arrow">←</span>
             <span>All projects</span>
           </Link>

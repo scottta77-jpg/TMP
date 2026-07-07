@@ -48,10 +48,10 @@ export default function App() {
           <Routes>
             <Route path="/"                              element={<Home />} />
             <Route path="/about"                         element={<About />} />
-            <Route path="/case-studies"                  element={<CaseStudies />} />
-            <Route path="/case-studies/:slug"            element={<CaseStudyDetail />} />
+            <Route path="/projects"                      element={<CaseStudies />} />
+            <Route path="/projects/:slug"                element={<CaseStudyDetail />} />
             <Route path="/contact"                       element={<Contact />} />
-            <Route path="/faqs"                          element={<FAQs />} />
+            <Route path="/services"                      element={<FAQs />} />
             <Route path="/sustainable-features/:slug"    element={<SustainableFeature />} />
             <Route path="/team/:slug"                    element={<TeamMember />} />
             <Route path="/privacy-policy"                element={<PrivacyPolicy />} />

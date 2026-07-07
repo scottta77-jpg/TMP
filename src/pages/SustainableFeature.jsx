@@ -95,7 +95,7 @@ export default function SustainableFeature() {
             <ul className="sf-related-grid">
               {related.map(({ slug: pSlug, title: pTitle, category, year, coverImage }) => (
                 <li key={pSlug}>
-                  <Link to={`/case-studies/${pSlug}`} className="sf-related-card">
+                  <Link to={`/projects/${pSlug}`} className="sf-related-card">
                     <div className="sf-related-img-wrap">
                       <img
                         src={coverImage || `/assets/case-studies/${pSlug}-cover.jpg`}

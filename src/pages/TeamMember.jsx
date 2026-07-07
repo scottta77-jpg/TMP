@@ -126,7 +126,7 @@ export default function TeamMember() {
             <ul className="tm-projects-list">
               {projects.map(({ slug: pSlug, title }) => (
                 <li key={pSlug}>
-                  <Link to={`/case-studies/${pSlug}`} className="tm-project-link">
+                  <Link to={`/projects/${pSlug}`} className="tm-project-link">
                     <span>{title}</span>
                     <span className="tm-project-arrow">→</span>
                   </Link>

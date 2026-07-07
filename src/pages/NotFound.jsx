@@ -22,7 +22,7 @@ export default function NotFound() {
 
           <div className="nf-actions animate-in animate-in--delay-3">
             <Link to="/" className="nf-btn-primary">← Back to home</Link>
-            <Link to="/case-studies" className="nf-btn-secondary">View our work</Link>
+            <Link to="/projects" className="nf-btn-secondary">View our work</Link>
             <Link to="/contact" className="nf-btn-secondary">Get in touch</Link>
           </div>
         </div>
