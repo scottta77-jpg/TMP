@@ -35,6 +35,7 @@ import NotFound           from './pages/NotFound';
 
 import './styles/global.css';
 
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   return (
@@ -63,6 +64,7 @@ export default function App() {
 
         <Footer />
       </div>
+      <Analytics />
     </BrowserRouter>
   );
 }
