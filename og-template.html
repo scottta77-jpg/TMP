@@ -7,7 +7,7 @@
     body {
       margin: 0;
       padding: 0;
-      background: #1a1a1a; /* slight dark background if we want */
+      background: #1a1a1a;
       width: 1200px;
       height: 630px;
       display: flex;
@@ -21,18 +21,12 @@
       display: grid;
       grid-template-columns: repeat(6, 1fr);
       grid-template-rows: 1fr 1fr;
-      gap: 0; /* The prompt says "seamless". Let's make it truly seamless */
       box-sizing: border-box;
-      border-radius: 0; /* typically OG images are rectangular, no border radius */
       overflow: hidden;
     }
-    /* Alternatively, if they want it like the reference, we can add a gap */
-    /* Let's provide a small gap as it looks nice and matches reference roughly */
     .grid-container.with-gap {
-      gap: 6px;
+      gap: 8px;
       background: #000;
-      /* The reference image shows an outer border/radius, but standard OG image should fill 1200x630. */
-      /* So we will let it fill the box */
       width: 1200px;
       height: 630px;
     }

@@ -4,7 +4,7 @@ import path from 'path';
 (async () => {
   // Use absolute path to the HTML file
   const htmlPath = 'file://' + path.resolve('og-template.html');
-  const outputPath = path.resolve('public', 'assets', 'og-preview.png');
+  const outputPath = path.resolve('public', 'assets', 'og-preview.jpg');
 
   console.log(`Loading HTML template from: ${htmlPath}`);
 
@@ -13,7 +13,7 @@ import path from 'path';
   const page = await browser.newPage();
 
   // Standard OG image dimensions
-  await page.setViewport({ width: 1200, height: 630, deviceScaleFactor: 2 }); // 2x scale for better quality
+  await page.setViewport({ width: 1200, height: 630, deviceScaleFactor: 3 }); // 3x scale for highest quality
 
   // Go to the HTML file
   await page.goto(htmlPath, { waitUntil: 'networkidle0' });
@@ -23,7 +23,7 @@ import path from 'path';
 
   console.log(`Saving screenshot to: ${outputPath}`);
   // Take screenshot
-  await page.screenshot({ path: outputPath });
+  await page.screenshot({ path: outputPath, type: 'jpeg', quality: 100 });
 
   await browser.close();
   console.log('OG preview image generated successfully!');
